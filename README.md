@@ -12,3 +12,5 @@ The action supports Linux, macOS, and Windows on amd64 and arm64 where the reque
     version: v0.10.2
 - run: chatwright --version
 ```
+
+Self-hosted runners need PowerShell (`pwsh`); Unix runners also need `tar` and `chmod`.
